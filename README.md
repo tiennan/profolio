@@ -14,7 +14,7 @@
  - scalable backend API server
  - scalable socket push server
 
-### Muitl screen interaction - control webpage by your phone
+### Muitl screen interaction demo - control webpage by your phone
  - Github - https://github.com/tiennan/mctrldemo
  - Demo - http://huntsbar.com:8850/
  - websocket(Socket.io)
