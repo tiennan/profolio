@@ -1,9 +1,18 @@
 # profolio
 
 ### idigest - An article recomendation mobile web
- - http://idigestapp.com/
+ - Website - http://idigestapp.com/
  - Reactjs / amazeUI / Nodejs / MongoDB
  - UPYUN(CDN) / Linode VPS
+
+### Nuandao - Creative EC-Site in China
+ - Website - http://www.nuandao.com/
+ - Javascript / CSS / php / android
+
+### SCENECAST - Live video broadcasting app
+ - Website - http://scenecast.com/
+ - scalable backend API server
+ - scalable socket push server
 
 ### Muitl screen interaction - control webpage by your phone
  - Github - https://github.com/tiennan/mctrldemo
@@ -11,12 +20,12 @@
  - websocket(Socket.io)
 
 ### IEE China site
- - Site - http://m.ieenet.cn/site/
- - Support WeChat/QQ login (Both PC/mobile)
- - Support Aliyun server operation
- - Support ICP
+ - Website - http://m.ieenet.cn/site/
+ - WeChat/QQ login (Both PC/mobile)
+ - Aliyun server operation
+ - ICP
 
 ### FLOWERLANGUAGE - Online shop in Shopify
- - Site - http://www.flowerlanguage.cn/
- - Support Reverse proxy in Aliyun
- - Support ICP
+ - Website - http://www.flowerlanguage.cn/
+ - Reverse proxy in Aliyun
+ - ICP
