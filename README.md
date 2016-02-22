@@ -25,7 +25,7 @@
  - Aliyun server operation
  - ICP
 
-### FLOWERLANGUAGE - Online shop in Shopify
+### FLOWERLANGUAGE - Online flower shop in Shopify
  - Website - http://www.flowerlanguage.cn/
  - Reverse proxy in Aliyun
  - ICP
